@@ -24,11 +24,14 @@ In other words, the company wants to understand the driving factors (or driver v
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+### Conclusion 1: Distribution of Loan Status and Borrower Characteristics
+- The analysis explores the distribution of loan status (paid off vs. defaulted) across various borrower characteristics like income group, home ownership, loan purpose, and credit information. This helps identify potential factors influencing loan repayment.
+### Conclusion 2: Loan Amount and Income
+- The analysis investigates the relationship between loan amount and borrower income using boxplots. This can reveal patterns in loan sizing based on income levels and identify potential risk factors for larger loans relative to income.
+### Conclusion 3: Loan Performance
+- The analysis examines loan performance (defaults vs. paid) across different states and months/years of issuance.
+### Conclusion 4: Borrower Verification and Loan Repayment
+- The analysis explores the association between loan verification status (verified vs. not verified) and loan repayment. It might reveal if loans with a specific verification status have a higher chance of default.
 
 
 ## Technologies Used
